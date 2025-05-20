@@ -1,4 +1,3 @@
-import { metadata } from 'next'
 
 
 export const metadata = {

@@ -1,5 +1,3 @@
-import { metadata } from 'next'
-
 
 export const metadata = {
     title: `Mango Banana`,

@@ -1,5 +1,10 @@
 import Image from "next/image";
 
+export const metadata = {
+    title:'about',
+    description:"this page tells aboutaout section"
+}
+
 export default async function About() {
     return (
         <div className="h-screen w-screen flex justify-center items-center">
